@@ -8,7 +8,9 @@ Integrantes: Daniel Felipe Cantor Santana, Giovanni Obregon, Thomas Hernandez Oc
 
 
 ## Sensor de ultrasonido HS-SR04
-![image](https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/blob/main/Imagenes/Montaje.jpg){width = 30px}
+![image](https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/blob/main/Imagenes/Montaje.jpg)
+![image](https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/blob/main/Imagenes/Sensor.jpg)
+![image](https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/blob/main/Imagenes/conexión.jpg)
 
 
 ## Sensores EV3
