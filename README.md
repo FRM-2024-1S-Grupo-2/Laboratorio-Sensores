@@ -9,17 +9,18 @@ Integrantes: Daniel Felipe Cantor Santana, Giovanni Obregon, Thomas Hernandez Oc
 
 ## Sensor de ultrasonido HS-SR04
 
+Se realizó el montaje segun la guía, se verificó la distancia como se puede apreciar en las fotos a continuación:
+
 ![image](https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/blob/main/Imagenes/Montaje.jpg)
 ![image](https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/blob/main/Imagenes/Sensor.jpg)
 ![image](https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/blob/main/Imagenes/conexión.jpg)
 
-Se verificó cada medida con un flexometro:
+Se verificó cada medida con un flexometro, las distancias que seleccionamos fuero de 1m, 1,2m y 1,5 m:
 ![image](https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/blob/main/Imagenes/Medidas.jpg)
 
 Se obtuvieorn los siguientes resultados al graficar las 100 muestras en MatLab:
-![image](https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/blob/main/Imagenes/Grafica_1m.jpg)
-![image](https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/blob/main/Imagenes/Grafica_1,2m.jpg)
-![image](https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/blob/main/Imagenes/Grafica_1,5m.jpg)
+![image](https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/blob/main/Imagenes/Grafica_1m.jpg)![image](https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/blob/main/Imagenes/Grafica_1,2m.jpg)![image](https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/blob/main/Imagenes/Grafica_1,5m.jpg)
+
 
 Para cada sensor se obtuvo una media de:
 
