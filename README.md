@@ -9,7 +9,7 @@ Integrantes: Daniel Felipe Cantor Santana, Giovanni Obregon, Thomas Hernandez Oc
 
 ## Sensor de ultrasonido HS-SR04
 
-Se realizó el montaje segun la guía,  inicialemente se verificó el puerto de conexión y que se visualizaran correctamente los datos en arduino, usando el archivo "[Usound3.ino](FRM-2024-1S-Grupo-2/Laboratorio-Sensores/Códigos/usound3.ino)", además se verificaron las distancias como se aprecia en las siguientes imagenes:
+Se realizó el montaje segun la guía,  inicialemente se verificó el puerto de conexión y que se visualizaran correctamente los datos en arduino, usando el archivo "[Usound3.ino](https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/blob/main/Códigos/usound3.ino)", además se verificaron las distancias como se aprecia en las siguientes imagenes:
 
 <img src="https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/blob/main/Imagenes/Montaje.jpg" alt="Montaje" width="400"> <img src="https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/blob/main/Imagenes/Sensor.jpg" alt="Sensor" width="400"> 
 
