@@ -11,7 +11,11 @@ Integrantes: Daniel Felipe Cantor Santana, Giovanni Obregon, Thomas Hernandez Oc
 
 Se realizó el montaje segun la guía, se verificó la distancia como se puede apreciar en las fotos a continuación:
 
-<img src="https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/blob/main/Imagenes/Montaje.jpg" alt="Montaje" width="300"> <img src="https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/blob/main/Imagenes/Sensor.jpg" alt="Sensor" width="300"> <img src="https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/blob/main/Imagenes/conexión.jpg" alt="Conexión" width="300">
+<img src="https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/blob/main/Imagenes/Montaje.jpg" alt="Montaje" width="400"> <img src="https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/blob/main/Imagenes/Sensor.jpg" alt="Sensor" width="400"> 
+
+<div style="text-align: center;">
+    <img src="https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/blob/main/Imagenes/conexión.jpg" alt="Conexión" width="400">
+</div>
 
 Se verificó cada medida con un flexometro, las distancias que seleccionamos fuero de 1m, 1,2m y 1,5 m:
 ![image](https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/blob/main/Imagenes/Medidas.jpg)
