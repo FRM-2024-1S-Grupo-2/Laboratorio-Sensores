@@ -20,7 +20,7 @@ Se verificó cada medida con un flexometro, ya que este se asumirá como el "val
 
 
 
-Posteriormente se empleó el Script "¨[ultrasound.m](https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/blob/main/Códigos/ultrasound.m)" de MatLab dicho código toma 100 muestras de médida y da una gráfica de comportamiento, como las que se muestra a continuación: 
+Posteriormente se empleó el Script "¨[ultrasound3.m](https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/blob/main/Códigos/ultrasound3.m)" de MatLab dicho código toma 100 muestras de médida y da una gráfica de comportamiento, como las que se muestra a continuación: 
 ![image](https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/blob/main/Imagenes/Grafica_1m.jpg)
 ![image](https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/blob/main/Imagenes/Grafica_1,2m.jpg)
 ![image](https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/blob/main/Imagenes/Grafica_1,5m.jpg)
