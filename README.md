@@ -46,7 +46,7 @@ Se realizaron 3 tomas de medias, dando los siguientes resultados:
 ### Encoder EV3
 Para la medición del encoder de los motores se desmontó una de las llantas del robot y la guja plástica que tiene se tomó como indicardor. Alineando dicha aguja con el hueco de la parte superior, se realizaron giros de 35° y se midió con un transpotador el cambio del ángulo, (esta medicion se realizó 3 veces).
 
-![image](https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/blob/main/Imagenes/Encoder_EV3.jpg)
+<img src="https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/blob/main/Imagenes/Encoder_EV3.jpg" alt="Encoder_EV3" width="600">
 
 El código usado fue el siguiente:
 
