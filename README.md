@@ -50,7 +50,7 @@ Para la medición del encoder de los motores se desmontó una de las llantas del
 
 <img src="https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/blob/main/Imagenes/Encoder_EV3.jpg" alt="Encoder_EV3" width="600">
 
-El código usado fue el siguiente:
+El código usado es el siguiente:
 
 ![image](https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/blob/main/Imagenes/Codigo_encoders.png)
 
