@@ -31,5 +31,6 @@ Para cada longitud se calculó la desviación estandar, la media ademas de sus e
 
 
 ## Sensores EV3
+Para la toma de medidas de sensores EV3, se siguieron las instrucciones dadas en la guia del laboratorio con 2 particularidades, debido al guarda escobas de la habitación el sensor de ultrasonido del EV3 tomó como distancia inicial 4mm, sin embargo con el fin de reducir la incertidumbre, adicional a la cinta métrica se marcó con cinta los 100cm, como puede verse en las siguientes fotos:
 
 
