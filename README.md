@@ -31,8 +31,31 @@ Para cada longitud se calculó la desviación estandar, la media ademas de sus e
 
 
 ## Sensores EV3
-Para la toma de medidas de sensores EV3, se siguieron las instrucciones dadas en la guia del laboratorio con 2 particularidades, debido al guarda escobas de la habitación el sensor de ultrasonido del EV3 tomó como distancia inicial 4mm, sin embargo con el fin de reducir la incertidumbre, adicional a la cinta métrica se marcó con cinta los 100cm, como puede verse en las siguientes fotos:
+### Ultrasonido EV3
+Para la toma de medidas del sensor de ultrasonido del EV3, se siguieron las instrucciones dadas en la guia del laboratorio con 2 particularidades, debido al guardaescobas de la habitación el sensor de ultrasonido del EV3 tomó como distancia inicial 4mm, sin embargo con el fin de reducir la incertidumbre, adicional a la cinta métrica se marcó con cinta los 100cm, como puede verse en las siguientes fotos:
 
 <img src="https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/blob/main/Imagenes/Ultrasonido_EV3.jpg" alt="Ultrasonido_EV3" width="400"> <img src="https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/blob/main/Imagenes/Cinta_Ev3.jpg" alt="Cinta_Ev3" width="400">
 
- <img src="https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/blob/main/Imagenes/Distancia_4mm" alt="Distancia_4mm" width="400">
+![image](https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/blob/main/Imagenes/Distancia_4mm.jpg)
+
+Dicho experimento se realizó con el siguiente código:
+
+Se realizaron 3 tomas de medias, dando los siguientes resultados:
+
+
+### Encoder EV3
+Para la medición del encoder de los motores se desmontó una de las llantas del robot y la guja plástica que tiene se tomó como indicardor. Alineando dicha aguja con el hueco de la parte superior, se realizaron giros de 35° y se midió con un transpotador el cambio del ángulo, (esta medicion se realizó 3 veces).
+
+![image](https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/blob/main/Imagenes/Encoder_EV3.jpg)
+
+El código usado fue el siguiente:
+
+
+
+
+En este experimento pudo evidenciarse que el encoder del EV3 no permite giros menos a 45°. Como se ve en el código se le indicó realizar el desplazamiento cada 35°, sin embargo lo realizó cad 45°.
+
+Con los datos tomados se realizaron los siguientes cálculos:
+
+
+
