@@ -40,6 +40,8 @@ Para la toma de medidas del sensor de ultrasonido del EV3, se siguieron las inst
 
 Dicho experimento se realizó con el siguiente código:
 
+![image](https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/blob/main/Imagenes/Codigo_ultrasonido.png)
+
 Se realizaron 3 tomas de medias, dando los siguientes resultados:
 
 
@@ -50,7 +52,7 @@ Para la medición del encoder de los motores se desmontó una de las llantas del
 
 El código usado fue el siguiente:
 
-
+![image](https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/blob/main/Imagenes/Codigo_encoders.png)
 
 
 En este experimento pudo evidenciarse que el encoder del EV3 no permite giros menos a 45°. Como se ve en el código se le indicó realizar el desplazamiento cada 35°, sin embargo lo realizó cad 45°.
