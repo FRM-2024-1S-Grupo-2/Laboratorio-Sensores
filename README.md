@@ -42,6 +42,10 @@ Dicho experimento se realizó con el siguiente código:
 
 ![image](https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/blob/main/Imagenes/Codigo_ultrasonido.png)
 
+
+[![Ver en YouTube](https://img.youtube.com/vi/499XxBOeOto/maxresdefault.jpg)](https://www.youtube.com/watch?v=499XxBOeOto)
+
+
 Se realizaron 3 tomas de medias, dando los siguientes resultados:
 
 
@@ -56,6 +60,11 @@ El código usado es el siguiente:
 
 
 En este experimento pudo evidenciarse que el encoder del EV3 no permite giros menos a 45°. Como se ve en el código se le indicó realizar el desplazamiento cada 35°, sin embargo lo realizó cad 45°.
+
+# Video de Demostración
+
+[![Ver en YouTube](https://img.youtube.com/vi/oDSPJiMbbmA/maxresdefault.jpg)](https://www.youtube.com/watch?v=oDSPJiMbbmA)
+
 
 Con los datos tomados se realizaron los siguientes cálculos:
 
