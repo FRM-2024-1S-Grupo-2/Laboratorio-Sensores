@@ -25,7 +25,18 @@ Posteriormente se empleó el Script "¨[ultrasound3.m](https://github.com/FRM-20
 ![image](https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/blob/main/Imagenes/Grafica_1,2m.jpg)
 ![image](https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/blob/main/Imagenes/Grafica_1,5m.jpg)
 
-Para cada longitud se calculó la desviación estandar, la media ademas de sus errores absolutos y relativos:
+Para cada longitud se calculó la desviación estandar, la media ademas de sus errores absolutos y relativos, a continuación se presentan las imágenes con dichos datos.
+
+
+![Datos 1m](https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/assets/162064900/55194f55-87df-4655-b7f7-2d85633fa710)
+![Histograma 1m](https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/assets/162064900/f1f6c4f5-0021-49bf-a26d-69c3e3d826a0)
+![Datos 1 2](https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/assets/162064900/6f59e7ca-2db0-44c1-b92c-ee8b11f23d32)
+![Histograma 1 2m](https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/assets/162064900/1a7fca6d-2e19-4dc5-bc2a-81e08fa5cd47)
+![Datos 1 5](https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/assets/162064900/9910813e-c85e-478e-b1ba-1f3006ef7a8b)
+![Histograma 1 5](https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/assets/162064900/32ae1da8-a659-434b-8fac-ca98b3bc9996)
+
+
+
 
 ...
 
@@ -67,6 +78,7 @@ En este experimento pudo evidenciarse que el encoder del EV3 no permite giros me
 
 
 Con los datos tomados se realizaron los siguientes cálculos:
+![Datos encoder](https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/assets/162064900/31777eed-05d1-4c2c-bb0b-23c84976bb2b)
 
 
 
